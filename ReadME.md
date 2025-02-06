@@ -1,0 +1,1 @@
+[ArgoCD Notifications (Successful/Failed Deployments)](https://www.youtube.com/watch?v=OP6IRsNiB4w&list=PLiMWaCMwGJXkktZoHhmL6sbg7ELNjv9Xw&index=5&ab_channel=AntonPutra)
