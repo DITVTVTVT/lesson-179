@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          imag: nginx:1.25.2
+          images: nginx:1.25.2
           ports:
             - containerPort: 80
